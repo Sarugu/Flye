@@ -20,10 +20,6 @@ You can see details of this challenge [here](https://fyleuniverse.notion.site/fy
 
 __Note__ - This challenge is in angular. We work on angular frameworks & after you join we expect the same from you. Hence it is required to complete this assignement in angular itself.
 
-## What happens next?
-
-You will hear back within 48 hours from us via email.
-
 ## Installation
 
 1. Fork this repository to your github account.
